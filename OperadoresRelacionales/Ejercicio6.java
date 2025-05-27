@@ -1,6 +1,7 @@
 package OperadoresRelacionales;
 import java.util.Scanner;
 public class Ejercicio6 {
+    
     public static void main(String[] args) {
         int numero1;
         Scanner reader = new Scanner(System.in);
