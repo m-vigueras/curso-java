@@ -10,7 +10,7 @@ public class Ejercicio6 {
         numero = reader.nextInt();
 
 
-        if(numero*93%2==0){
+        if((numero-93)*3%2==0){
             System.out.println("PREMIADO" +numero );
         }
         else{
